@@ -3,7 +3,8 @@ The functionality of this website ( http://laravelpmanager.otwebdevelopment.net 
 </br> 
 </br> 
 Screenshots of various pages of this web application can viewed at https://drive.google.com/drive/folders/1U8tEIg6MCDX8tL_eDdIhtwcFbMAA-dnA?usp=drive_link
-    
+</br> 
+</br>     
 On this site users can:
 
 -	view, create, edit, or delete a single business profile
