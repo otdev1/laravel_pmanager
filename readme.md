@@ -7,9 +7,9 @@ Screenshots of various pages of this web application can viewed at https://drive
 </br>     
 On this site users can:
 
--	view, create, edit, or delete a single business profile
+-	view, create, edit, or delete a single company profile
 
--	view a list of all business profiles or those belonging to a specific user
+-	view a list of all company profiles or those belonging to a specific user
 
 -	search for a specific company
 
