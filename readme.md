@@ -1,6 +1,7 @@
 <article>
 The functionality of this website ( http://laravelpmanager.otwebdevelopment.net ) mimics that of an online business directory and implements the conventional CRUD (Create, Read, Update, Delete) operations on three database entities namely Companies, Roles and Users. Among these entities, various types of relationships such as one to many and many to one exist. 
 
+
 Screenshots of various pages of this web application can viewed at https://drive.google.com/drive/folders/1U8tEIg6MCDX8tL_eDdIhtwcFbMAA-dnA?usp=drive_link
     
 On this site users can:
